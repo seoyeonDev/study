@@ -10,9 +10,9 @@ public class B2446 {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 				
-		for(int i=0; i < N;i++) {
-			for()
-		}
+//		for(int i=0; i < N;i++) {
+//			for()
+//		}
 	}
 
 }
