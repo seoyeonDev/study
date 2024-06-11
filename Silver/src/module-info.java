@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author iseoyeon
- *
- */
-module Silver {
-}
