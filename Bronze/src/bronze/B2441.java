@@ -1,24 +1,24 @@
-package augustW2;
+package bronze;
 
 import java.util.Scanner;
 
-public class B2442 {
+public class B2441 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
+		int m,j;
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
-		int k;
-		for (int i = 1; i < N + 1; i++) {
-			for (k = 0; k < N - i; k++) {
+		for (int i = 0; i < N ; i++) {
+			
+			for (m = 0; m < i; m++) {
 				System.out.print(" ");
 			}
-			for (int j = 0; j < 2 * i - 1; j++) {
+			for (j = 0; j < N-i; j++) {
 				System.out.print("*");
 			}
-			
 			System.out.println();
-
 		}
 	}
 

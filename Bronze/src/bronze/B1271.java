@@ -1,4 +1,4 @@
-package julyW5;
+package bronze;
 
 import java.math.BigInteger;
 import java.util.Scanner;

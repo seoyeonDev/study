@@ -1,19 +1,22 @@
-package augustW5;
+package bronze;
 
 import java.util.Scanner;
 
-public class B10950 {
+public class B10951 {
 
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		int T = sc.nextInt();
-		for(int i=0;i<T;i++) {
+		while (sc.hasNext()) {
 			int A = sc.nextInt();
 			int B = sc.nextInt();
 			
-			System.out.println(A+B);
+			if (A < 0 || B < 0 || A > 10 || B > 10) {
+				break;
+			}
+			System.out.println(A + B);
 		}
+		sc.close();
 	}
 
 }

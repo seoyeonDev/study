@@ -1,4 +1,4 @@
-package julyW5;
+package bronze;
 
 import java.util.Scanner;
 
