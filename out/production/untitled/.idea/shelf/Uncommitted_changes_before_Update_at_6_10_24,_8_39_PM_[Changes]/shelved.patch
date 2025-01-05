@@ -1,0 +1,151 @@
+Index: Solved/src/module-info.java
+===================================================================
+diff --git a/Solved/src/module-info.java b/Solved/src/module-info.java
+deleted file mode 100644
+--- a/Solved/src/module-info.java	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,9 +0,0 @@
+-/**
+- * 
+- */
+-/**
+- * @author iseoyeon
+- *
+- */
+-module Bronze {
+-}
+\ No newline at end of file
+Index: Solved/.classpath
+===================================================================
+diff --git a/Solved/.classpath b/Solved/.classpath
+deleted file mode 100644
+--- a/Solved/.classpath	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<classpath>
+-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+-		<attributes>
+-			<attribute name="module" value="true"/>
+-		</attributes>
+-	</classpathentry>
+-	<classpathentry kind="src" path="src"/>
+-	<classpathentry kind="output" path="bin"/>
+-</classpath>
+Index: Solved/src/bronze/solved2752.java
+===================================================================
+diff --git a/Solved/src/bronze/solved2752.java b/Solved/src/bronze/solved2752.java
+deleted file mode 100644
+--- a/Solved/src/bronze/solved2752.java	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,28 +0,0 @@
+-package bronze;
+-
+-import java.util.Scanner;
+-
+-public class solved2752 {
+-
+-	public static void main(String[] args) {
+-		Scanner sc = new Scanner(System.in);
+-		int a = sc.nextInt();
+-		int b = sc.nextInt();
+-		int c = sc.nextInt();
+-		int k;
+-
+-		int[] arr = { a, b, c };
+-
+-		for (int i = 0; i < arr.length-1; i++) {
+-			
+-			if (arr[i] > arr[i + 1]) {
+-				k = arr[i];
+-				arr[i] = arr[i + 1];
+-				arr[i + 1] = k;
+-			}
+-		}
+-		for(int i = 0; i<arr.length;i++) {
+-			System.out.print("i:"+i);
+-		}
+-	}
+-}
+Index: Silver/.classpath
+===================================================================
+diff --git a/Silver/.classpath b/Silver/.classpath
+deleted file mode 100644
+--- a/Silver/.classpath	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<classpath>
+-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+-		<attributes>
+-			<attribute name="module" value="true"/>
+-		</attributes>
+-	</classpathentry>
+-	<classpathentry kind="src" path="src"/>
+-	<classpathentry kind="output" path="bin"/>
+-</classpath>
+Index: Silver/src/module-info.java
+===================================================================
+diff --git a/Silver/src/module-info.java b/Silver/src/module-info.java
+deleted file mode 100644
+--- a/Silver/src/module-info.java	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,9 +0,0 @@
+-/**
+- * 
+- */
+-/**
+- * @author iseoyeon
+- *
+- */
+-module Silver {
+-}
+\ No newline at end of file
+Index: Solved/.project
+===================================================================
+diff --git a/Solved/.project b/Solved/.project
+deleted file mode 100644
+--- a/Solved/.project	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,17 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<projectDescription>
+-	<name>Solved</name>
+-	<comment></comment>
+-	<projects>
+-	</projects>
+-	<buildSpec>
+-		<buildCommand>
+-			<name>org.eclipse.jdt.core.javabuilder</name>
+-			<arguments>
+-			</arguments>
+-		</buildCommand>
+-	</buildSpec>
+-	<natures>
+-		<nature>org.eclipse.jdt.core.javanature</nature>
+-	</natures>
+-</projectDescription>
+Index: Silver/.project
+===================================================================
+diff --git a/Silver/.project b/Silver/.project
+deleted file mode 100644
+--- a/Silver/.project	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
++++ /dev/null	(revision 0c1a0ed890f5888c2704703ea66e1ff5db8f768c)
+@@ -1,17 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<projectDescription>
+-	<name>Silver</name>
+-	<comment></comment>
+-	<projects>
+-	</projects>
+-	<buildSpec>
+-		<buildCommand>
+-			<name>org.eclipse.jdt.core.javabuilder</name>
+-			<arguments>
+-			</arguments>
+-		</buildCommand>
+-	</buildSpec>
+-	<natures>
+-		<nature>org.eclipse.jdt.core.javanature</nature>
+-	</natures>
+-</projectDescription>
