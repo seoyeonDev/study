@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="0104" />
+    <list id="ac996b95-4e0b-41e7-9535-d3a9914b693d" name="ignore" comment="ignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="seoyeonDev &lt;skylarlee1003@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="home" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="hm/0105" />
+                    <option name="lastUsedInstant" value="1736082943" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="home" />
+                    <option name="lastUsedInstant" value="1736082782" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1736082761" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="0104" />
+                    <option name="lastUsedInstant" value="1736001091" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hbAVX31brsznHZs6SqwnCVFudT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "hm/0105",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/iseoyeon/IntelliJ/study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Bronze.src.bronze" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.B5597">
+    <configuration name="B10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B10813" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B14681" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B25304" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B25314" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B25314" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B5597" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B5597" />
+        <item itemvalue="Application.B10813" />
+        <item itemvalue="Application.B25314" />
+        <item itemvalue="Application.B25304" />
+        <item itemvalue="Application.B14681" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="" />
+      <changelist id="ac996b95-4e0b-41e7-9535-d3a9914b693d" name="ignore" comment="" />
+      <created>1717852436242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717852436242</updated>
+      <workItem from="1717852467092" duration="10175000" />
+      <workItem from="1718544655576" duration="4527000" />
+      <workItem from="1719240806594" duration="688000" />
+      <workItem from="1719406933658" duration="2953000" />
+      <workItem from="1719410863880" duration="10000" />
+      <workItem from="1719583701172" duration="1792000" />
+      <workItem from="1724589804858" duration="4593000" />
+      <workItem from="1735429873236" duration="9184000" />
+      <workItem from="1735911948750" duration="3108000" />
+      <workItem from="1735999784645" duration="1918000" />
+      <workItem from="1736082601692" duration="6308000" />
+    </task>
+    <task id="LOCAL-00001" summary="240608">
+      <option name="closed" value="true" />
+      <created>1717856509240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717856509240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="240611">
+      <option name="closed" value="true" />
+      <created>1718112586191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718112586191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="폴더 정리">
+      <option name="closed" value="true" />
+      <created>1718114031194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718114031194</updated>
+    </task>
+    <task id="LOCAL-00004" summary="240616">
+      <option name="closed" value="true" />
+      <created>1718547065010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718547065010</updated>
+    </task>
+    <task id="LOCAL-00005" summary="폴더 정리">
+      <option name="closed" value="true" />
+      <created>1718548257068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718548257068</updated>
+    </task>
+    <task id="LOCAL-00006" summary="240626">
+      <option name="closed" value="true" />
+      <created>1719410081329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719410081329</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0825">
+      <option name="closed" value="true" />
+      <created>1724594206332</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724594206332</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1229">
+      <option name="closed" value="true" />
+      <created>1735431182381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735431182381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1229">
+      <option name="closed" value="true" />
+      <created>1735432590052</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735432590052</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0101">
+      <option name="closed" value="true" />
+      <created>1735741281487</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735741281487</updated>
+    </task>
+    <task id="LOCAL-00011" summary="0101">
+      <option name="closed" value="true" />
+      <created>1735743781413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735743781413</updated>
+    </task>
+    <task id="LOCAL-00012" summary="0102">
+      <option name="closed" value="true" />
+      <created>1735744813559</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735744813559</updated>
+    </task>
+    <task id="LOCAL-00013" summary="0104">
+      <option name="closed" value="true" />
+      <created>1736001112791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736001112791</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="240608" />
+    <MESSAGE value="240611" />
+    <MESSAGE value="240616" />
+    <MESSAGE value="240626" />
+    <MESSAGE value="폴더 정리" />
+    <MESSAGE value="0825" />
+    <MESSAGE value="1229" />
+    <MESSAGE value="0101" />
+    <MESSAGE value="0102" />
+    <MESSAGE value="0104" />
+    <option name="LAST_COMMIT_MESSAGE" value="0104" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B2480.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B10813.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B5597.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
