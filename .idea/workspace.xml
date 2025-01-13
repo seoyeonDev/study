@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="0108">
+    <list default="true" id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/bronze/B2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/bronze/B2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ac996b95-4e0b-41e7-9535-d3a9914b693d" name="ignore" comment="ignore" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,47 +85,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "hm/0112",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/iseoyeon/IntelliJ/study",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hm/0112&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/iseoyeon/IntelliJ/study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Bronze.src.bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B10809">
+  <component name="RunManager" selected="Application.B2675">
     <configuration name="B10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B10809" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Study.src.bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B10811" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -165,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B2675" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B27866" />
       <module name="untitled" />
@@ -180,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B2675" />
         <item itemvalue="Application.B10809" />
         <item itemvalue="Application.B11654" />
         <item itemvalue="Application.B27866" />
         <item itemvalue="Application.B10813" />
-        <item itemvalue="Application.B10811" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +207,8 @@
       <workItem from="1735999784645" duration="1918000" />
       <workItem from="1736082601692" duration="11382000" />
       <workItem from="1736342912384" duration="3232000" />
-      <workItem from="1736679627019" duration="2806000" />
+      <workItem from="1736679627019" duration="3116000" />
+      <workItem from="1736776140278" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="240608">
       <option name="closed" value="true" />
@@ -339,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736346348882</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="0112">
+      <option name="closed" value="true" />
+      <created>1736682464682</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736682464682</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +367,8 @@
     <MESSAGE value="0105" />
     <MESSAGE value="0107" />
     <MESSAGE value="0108" />
-    <option name="LAST_COMMIT_MESSAGE" value="0108" />
+    <MESSAGE value="0112" />
+    <option name="LAST_COMMIT_MESSAGE" value="0112" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,6 +397,11 @@
           <url>file://$PROJECT_DIR$/Study/src/bronze/B10809.java</url>
           <line>15</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B2675.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
