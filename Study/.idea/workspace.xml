@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bf291ee-d7e1-4068-836a-5631b5ee0790" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10039.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10718.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10757.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B10952.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B11720.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B11721.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1264.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1271.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1284.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B1550.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2420.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2440.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2441.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2442.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2446.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B24461.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2525.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2558.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2741.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2743.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2744.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2845.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2857.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2885.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B2914.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B4101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B5554.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B5596.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B5717.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B6321.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B6749.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B7287.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/B8393.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24,_8_39_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24__8_39_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B10718.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B10950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B11721.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1271.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1284.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B1550.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2420.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2441.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2442.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2446.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B24461.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2525.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2558.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2741.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2845.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2857.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2885.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B2914.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B6321.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/B8393.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24,_10_26_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24__10_26_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10039.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10430.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10699.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10718.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10757.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10807.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10871.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10926.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10952.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10987.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B10998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B11021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B11022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B11382.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B11720.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B11721.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1264.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1271.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1284.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B14681.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B15439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B1550.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B15740.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B18108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2420.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2440.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2441.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2442.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2446.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2480.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2525.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B25304.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B25314.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2558.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2741.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2742.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2743.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2744.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2753.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2845.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2857.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2885.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B2914.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B3046.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B3047.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B4101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B5339.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B5554.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B5596.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B5717.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B6321.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B6749.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B7287.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B8393.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/study/Study/src/bronze/B9498.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24__8_39_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24__8_39_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24__10_26_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24__10_26_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10039.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10039.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1008.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10171.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10171.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10172.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10172.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10430.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10699.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10699.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10718.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10718.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10757.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10757.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10807.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10807.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10810.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10810.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10818.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10818.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10869.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10869.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10871.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10926.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10926.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10950.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10950.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10951.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10951.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10952.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10952.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10987.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10987.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10998.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B10998.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11021.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11021.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11022.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11022.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11382.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11382.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11720.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11720.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11721.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B11721.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1264.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1264.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1271.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1271.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1284.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1284.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1330.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B14681.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B14681.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15439.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15439.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1550.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B1550.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15552.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15552.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15740.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B15740.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B18108.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B18108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2420.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2420.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2438.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2439.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2439.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2440.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2440.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2441.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2441.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2442.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2442.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2446.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2446.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2480.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2480.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2525.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2525.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B25304.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B25304.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B25314.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B25314.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2558.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2558.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2562.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2588.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2588.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2739.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2741.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2741.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2742.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2742.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2743.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2743.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2744.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2744.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2753.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2753.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2845.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2845.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2857.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2857.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2885.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2885.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2914.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B2914.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B3046.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B3046.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B3047.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B3047.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B4101.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B4101.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5339.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5339.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5554.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5554.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5596.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5596.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5717.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B5717.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B6321.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B6321.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B6749.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B6749.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B7287.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B7287.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B8393.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/Study/src/bronze/B9498.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/untitled/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/untitled/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="company/0103" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2rKUPKISnMRYI8JCAIO97IxeTuu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "company/010801",
+    "last_opened_file_path": "D:/study/Study",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf291ee-d7e1-4068-836a-5631b5ee0790" name="Changes" comment="" />
+      <created>1736307235431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736307235431</updated>
+      <workItem from="1736307237270" duration="297000" />
+      <workItem from="1736470611912" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
