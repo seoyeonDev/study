@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="0104">
-      <change afterPath="$PROJECT_DIR$/out/production/study/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24__8_39_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_24__8_39_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24__10_26_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_24__10_26_PM__Changes_.xml" afterDir="false" />
+    <list default="true" id="2b2be361-d182-4499-9513-dc58ae00c0cb" name="Changes" comment="0108">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/bronze/B2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/bronze/B2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ac996b95-4e0b-41e7-9535-d3a9914b693d" name="ignore" comment="ignore" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,21 +30,11 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="hm/010801" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;assignee&quot;: &quot;seoyeonDev&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {
-    &quot;assignee&quot;: &quot;seoyeonDev&quot;
-  }
-}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -56,20 +45,24 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="hm/0112" />
+                    <option name="lastUsedInstant" value="1736679732" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="hm/010801" />
+                    <option name="lastUsedInstant" value="1736679703" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1736679665" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="hm/0105" />
                     <option name="lastUsedInstant" value="1736082943" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="home" />
                     <option name="lastUsedInstant" value="1736082782" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1736082761" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="0104" />
-                    <option name="lastUsedInstant" value="1736001091" />
                   </RecentBranch>
                 </list>
               </option>
@@ -78,14 +71,6 @@
           </list>
         </option>
       </RecentBranches>
-    </option>
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="6ed720db-2d6c-4eca-a642-bbd2ba835940" />
-        <option name="url" value="https://github.com/seoyeonDev/study.git" />
-      </UrlAndAccount>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -107,7 +92,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "company/010801",
+    "git-widget-placeholder": "hm/0112",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "/Users/iseoyeon/IntelliJ/study",
     "node.js.detected.package.eslint": "true",
@@ -127,7 +112,20 @@
       <recent name="Bronze.src.bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B1546">
+  <component name="RunManager" selected="Application.B11654">
+    <configuration name="B10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B10811" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study.src.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B10813" />
       <module name="untitled" />
@@ -141,21 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B14681" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Study.src.bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B1546" />
+    <configuration name="B11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B11654" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -167,9 +152,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B25304" />
-      <module name="study" />
+    <configuration name="B27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B27866" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Study.src.bronze.*" />
@@ -180,9 +165,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B25314" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B25314" />
-      <module name="study" />
+    <configuration name="B5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study.src.bronze.B5597" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Study.src.bronze.*" />
@@ -195,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B1546" />
-        <item itemvalue="Application.B25314" />
-        <item itemvalue="Application.B25304" />
-        <item itemvalue="Application.B14681" />
+        <item itemvalue="Application.B11654" />
+        <item itemvalue="Application.B27866" />
         <item itemvalue="Application.B10813" />
+        <item itemvalue="Application.B10811" />
+        <item itemvalue="Application.B5597" />
       </list>
     </recent_temporary>
   </component>
@@ -222,8 +207,9 @@
       <workItem from="1735429873236" duration="9184000" />
       <workItem from="1735911948750" duration="3108000" />
       <workItem from="1735999784645" duration="1918000" />
-      <workItem from="1736082601692" duration="6308000" />
-      <workItem from="1736307539206" duration="898000" />
+      <workItem from="1736082601692" duration="11382000" />
+      <workItem from="1736342912384" duration="3232000" />
+      <workItem from="1736679627019" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="240608">
       <option name="closed" value="true" />
@@ -329,22 +315,35 @@
       <option name="project" value="LOCAL" />
       <updated>1736001112791</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="0105">
+      <option name="closed" value="true" />
+      <created>1736091198375</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736091198375</updated>
+    </task>
+    <task id="LOCAL-00015" summary="0107">
+      <option name="closed" value="true" />
+      <created>1736256487032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736256487032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="0108">
+      <option name="closed" value="true" />
+      <created>1736346348882</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736346348882</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -358,7 +357,10 @@
     <MESSAGE value="0101" />
     <MESSAGE value="0102" />
     <MESSAGE value="0104" />
-    <option name="LAST_COMMIT_MESSAGE" value="0104" />
+    <MESSAGE value="0105" />
+    <MESSAGE value="0107" />
+    <MESSAGE value="0108" />
+    <option name="LAST_COMMIT_MESSAGE" value="0108" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,9 +376,14 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Study/src/bronze/B5597.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B3052.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study/src/bronze/B10811.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
