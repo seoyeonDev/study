@@ -1,10 +1,10 @@
-package AlgorithmStudy.src.bronze;
+package AlgorithmStudy.src.silver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class B2941_2 {
+public class S2941_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String a = br.readLine();
