@@ -1,11 +1,11 @@
-package AlgorithmStudy.src.bronze;
+package AlgorithmStudy.src.silver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class p13241 {
+public class S13241 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
