@@ -15,6 +15,14 @@ public class S1929 {
         getPrime(m, n);
     }
 
+    // 아리스토테네스의 체
+    /*
+    1. 범위의 값을 boolean 배열로 만듦
+    2. 소수 찾으며, 배수를 체크한다.
+    이때, 해당 값은 제외하고 배수부터 찾는다. 해당 값이 이전에 지워지지 않았다면 소수라 판단하기 때문.
+    해당 값에 해당 값을 더해가며 배수를 삭제한다.
+    3. 소수 일때를 찾아 결과를 출력한다.
+     */
     public static void getPrime(int m, int n) {
         boolean[] list = new boolean[n + 1];
 
