@@ -1,4 +1,4 @@
-package AlgorithmStudy.src;
+package AlgorithmStudy.src.silver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
