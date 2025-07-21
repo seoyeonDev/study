@@ -10,9 +10,10 @@ public class S17103 {
         long testCase = Integer.parseInt(br.readLine());
         if (1 > testCase || testCase > 100) return;
 
-        // 소수 판별 체 만들기
+        // 소수 판별 체 한번만 만들기
         boolean[] list = isPrime();
 
+        // 테스트 케이스 입력
         for (int i = 0; i < testCase; i++) {
             int n = Integer.parseInt(br.readLine());
             if (2 >= n || n > 1000000) return;
@@ -47,7 +48,7 @@ public class S17103 {
         int cnt = 0;
         // 소수끼리 합 구하기
         for (int i = 2; i <= n / 2; i++) {
-            if (!list[i] && !list[n - i]) {
+            if (!list[i] && !list[n - i]) {     // n = i + (n - i) 이기 때문에.
                 cnt ++;
             }
         }
