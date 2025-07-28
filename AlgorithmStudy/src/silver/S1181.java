@@ -29,6 +29,11 @@ public class S1181 {
                     return o1.compareTo(o2);
                 }
                 return o1.length() - o2.length();
+                /*
+                1. 음수면
+                2. 같으면 0
+                3. 양수면
+                 */
             }
         });
 
